@@ -1,4 +1,4 @@
->>>
-VK: <http://vk.com/vokdahh>
-TG: <http://t.me/vokdahh_channel>
-<<<
+telegram: @whateverwhoami
+telegram-channel: @whateverwhatachannel
+
+just a tapki-developer
